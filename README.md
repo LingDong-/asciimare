@@ -39,7 +39,7 @@ in your terminal.
 
 ###  Loading models
 
-You can explore different maps by loading them into the second command. Currently, asciimare supports models exported from [Goxel](http://guillaumechereau.github.io/goxel/) (plain text) or a batch of csv files each describing a slice along the y-axis.
+You can explore different maps by loading them into the second command. Currently, asciimare supports models exported from [Goxel](http://guillaumechereau.github.io/goxel/) (plain text) or a batch of csv files each describing a slice along the y-axis. Alternatively, you can procedurally generate models using built-in functions. 
 
 
 
