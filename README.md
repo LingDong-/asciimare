@@ -2,7 +2,7 @@
 
 *A 3D engine powered by ASCII art.*
 
-![alt text](screenshots/gif1.gif)
+![alt text](screenshots/gif1.gif?raw=true)
 
 
 asciimare uses ASCII characters to display 3D graphics directly in the terminal. It is powered by python [curses](https://docs.python.org/2/library/curses.html), and renders by raycasting on voxels.
