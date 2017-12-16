@@ -23,7 +23,7 @@ and then plays with some color theory to create an illusion of depth.
 ## Dependencies
 - PyPy 2 ([pypy.org](pypy.org)) (Python works but will be slow)
 
-##Usage
+## Usage
 
 Try it out by typing
 
