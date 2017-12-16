@@ -1,0 +1,1255 @@
+# Goxel 0.7.1
+# One line per voxel
+# X Y Z RRGGBB
+-5 -11 8 ffffff
+-4 -11 8 ffffff
+-3 -11 8 ffffff
+-2 -11 8 ffffff
+-1 -11 8 ffffff
+0 -11 8 ffffff
+-12 -10 8 ffffff
+-11 -10 8 ffffff
+-10 -10 8 ffffff
+-9 -10 8 ffffff
+-8 -10 8 ffffff
+-7 -10 8 ffffff
+-6 -10 8 ffffff
+-13 -9 8 ffffff
+-12 -9 8 ffffff
+-1 -8 8 ffffff
+0 -8 8 ffffff
+-1 -7 8 ffffff
+-2 -6 8 ffffff
+-1 -6 8 ffffff
+-2 -5 8 ffffff
+0 -5 8 ffffff
+-3 -4 8 ffffff
+-2 -4 8 ffffff
+-1 -4 8 ffffff
+-3 -3 8 ffffff
+-2 -3 8 ffffff
+0 -3 8 ffffff
+-4 -2 8 ffffff
+-3 -2 8 ffffff
+0 -2 8 ff 0 0
+-5 -1 8 ffffff
+-4 -1 8 ffffff
+-1 -1 8 ff 0 0
+0 -1 8 ffffff
+-6 0 8 ffffff
+-4 0 8 ffffff
+-2 0 8 ff 0 0
+0 0 8 ffffff
+0 -3 9 ff 0 0
+0 -2 9 ff 0 0
+0 -1 9 ff 0 0
+0 0 9 ff 0 0
+0 0 10 ff 0 0
+3 -12 8 ffffff
+4 -12 8 ffffff
+5 -12 8 ffffff
+6 -12 8 ffffff
+7 -12 8 ffffff
+8 -12 8 ffffff
+9 -12 8 ffffff
+10 -12 8 ffffff
+1 -11 8 ffffff
+2 -11 8 ffffff
+10 -11 8 ffffff
+11 -11 8 ffffff
+12 -11 8 ffffff
+13 -11 8 ffffff
+14 -11 8 ffffff
+7 -9 8 ffffff
+8 -9 8 ffffff
+9 -9 8 ffffff
+10 -9 8 ffffff
+11 -9 8 ffffff
+12 -9 8 ffffff
+1 -8 8 ffffff
+5 -8 8 ffffff
+6 -8 8 ffffff
+7 -8 8 ffffff
+9 -8 8 ff 0 0
+12 -8 8 ffffff
+13 -8 8 ffffff
+14 -8 8 ff 0 0
+4 -7 8 ffffff
+6 -7 8 ff 0 0
+7 -7 8 ff 0 0
+8 -7 8 ff 0 0
+9 -7 8 ff 0 0
+13 -7 8 ffffff
+14 -7 8 ffffff
+1 -6 8 ffffff
+2 -6 8 ffffff
+3 -6 8 ffffff
+4 -6 8 ff 0 0
+5 -6 8 ff 0 0
+6 -6 8 ff 0 0
+11 -6 8 ffffff
+12 -6 8 ffffff
+13 -6 8 ffffff
+14 -6 8 ffffff
+1 -5 8 ffffff
+2 -5 8 ffffff
+3 -5 8 ff 0 0
+4 -5 8 ff 0 0
+5 -5 8 ffffff
+8 -5 8 ffffff
+9 -5 8 ffffff
+10 -5 8 ffffff
+11 -5 8 ffffff
+12 -5 8 ffffff
+13 -5 8 ffffff
+14 -5 8 ffffff
+1 -4 8 ffffff
+4 -4 8 ffffff
+5 -4 8 ffffff
+6 -4 8 ffffff
+7 -4 8 ffffff
+8 -4 8 ffffff
+9 -4 8 ffffff
+10 -4 8 ffffff
+11 -4 8 ffffff
+12 -4 8 ff 0 0
+13 -4 8 ff 0 0
+14 -4 8 ff 0 0
+1 -3 8 ffffff
+2 -3 8 ff 0 0
+4 -3 8 ffffff
+5 -3 8 ffffff
+6 -3 8 ffffff
+7 -3 8 ffffff
+11 -3 8 ffffff
+14 -3 8 ff 0 0
+1 -2 8 ff 0 0
+2 -2 8 ff 0 0
+3 -2 8 ffffff
+4 -2 8 ffffff
+5 -2 8 ffffff
+6 -2 8 ffffff
+7 -2 8 ffffff
+9 -2 8 ff 0 0
+11 -2 8 ffffff
+12 -2 8 ffffff
+14 -2 8 ff 0 0
+2 -1 8 ffffff
+4 -1 8 ffffff
+6 -1 8 ffffff
+7 -1 8 ffffff
+8 -1 8 ff 0 0
+9 -1 8 ff 0 0
+10 -1 8 ff 0 0
+12 -1 8 ffffff
+13 -1 8 ff 0 0
+14 -1 8 ff 0 0
+1 0 8 ffffff
+2 0 8 ffffff
+3 0 8 ffffff
+6 0 8 ff 0 0
+7 0 8 ff 0 0
+8 0 8 ff 0 0
+9 0 8 ff 0 0
+10 0 8 ff 0 0
+12 0 8 ffffff
+13 0 8 ffffff
+14 0 8 ff 0 0
+10 -8 9 ff 0 0
+11 -8 9 ff 0 0
+12 -8 9 ff 0 0
+13 -8 9 ff 0 0
+14 -8 9 ff 0 0
+12 -6 9 ff 0 0
+13 -6 9 ff 0 0
+14 -6 9 ff 0 0
+11 -5 9 ff 0 0
+12 -5 9 ff 0 0
+2 -4 9 ff 0 0
+7 -4 9 ff 0 0
+8 -4 9 ff 0 0
+9 -4 9 ff 0 0
+10 -4 9 ff 0 0
+11 -4 9 ff 0 0
+12 -4 9 ff 0 0
+13 -4 9 ff 0 0
+14 -4 9 ff 0 0
+1 -3 9 ff 0 0
+3 -3 9 ff 0 0
+4 -3 9 ff 0 0
+5 -3 9 ff 0 0
+6 -3 9 ff 0 0
+7 -3 9 ff 0 0
+8 -3 9 ff 0 0
+9 -3 9 ff 0 0
+10 -3 9 ff 0 0
+11 -3 9 ff 0 0
+12 -3 9 ff 0 0
+13 -3 9 ff 0 0
+1 -2 9 ff 0 0
+2 -2 9 ff 0 0
+4 -2 9 ff 0 0
+5 -2 9 ff 0 0
+6 -2 9 ff 0 0
+9 -2 9 ff 0 0
+13 -2 9 ff 0 0
+1 -1 9 ff 0 0
+3 -1 9 ff 0 0
+4 -1 9 ff 0 0
+5 -1 9 ff 0 0
+6 -1 9 ff 0 0
+7 -1 9 ff 0 0
+8 -1 9 ff 0 0
+9 -1 9 ff 0 0
+12 -1 9 ff 0 0
+13 -1 9 ff 0 0
+1 0 9 ff 0 0
+3 0 9 ff 0 0
+4 0 9 ff 0 0
+5 0 9 ff 0 0
+6 0 9 ff 0 0
+7 0 9 ff 0 0
+8 0 9 ff 0 0
+9 0 9 ff 0 0
+10 0 9 ff 0 0
+11 0 9 ff 0 0
+12 0 9 ff 0 0
+13 0 9 ff 0 0
+14 0 9 ff 0 0
+9 -5 10 ff 0 0
+10 -5 10 ff 0 0
+11 -5 10 ff 0 0
+12 -5 10 ff 0 0
+6 -4 10 ff 0 0
+7 -4 10 ff 0 0
+8 -4 10 ff 0 0
+9 -4 10 ff 0 0
+12 -4 10 ff 0 0
+13 -4 10 ff 0 0
+4 -3 10 ff 0 0
+5 -3 10 ff 0 0
+6 -3 10 ff 0 0
+7 -3 10 ff 0 0
+10 -3 10 ff 0 0
+3 0 10 ff 0 0
+4 0 10 ff 0 0
+5 0 10 ff 0 0
+6 0 10 ff 0 0
+7 0 10 ff 0 0
+8 0 10 ff 0 0
+9 0 10 ff 0 0
+10 0 10 ff 0 0
+11 0 10 ff 0 0
+12 0 10 ff 0 0
+14 0 10 ff 0 0
+9 0 11 ff 0 0
+10 0 11 ff 0 0
+11 0 11 ff 0 0
+-7 1 8 ffffff
+-4 1 8 ffffff
+-2 1 8 ff 0 0
+-1 1 8 ff 0 0
+0 1 8 ffffff
+-13 2 8 ffffff
+-12 2 8 ffffff
+-8 2 8 ffffff
+-3 2 8 ffffff
+-1 2 8 ffffff
+0 2 8 ffffff
+-11 3 8 ffffff
+-10 3 8 ffffff
+-9 3 8 ffffff
+-8 3 8 ffffff
+-3 3 8 ffffff
+-1 3 8 ffffff
+0 3 8 ff 0 0
+-8 4 8 ffffff
+-7 4 8 ffffff
+-3 4 8 ffffff
+-2 4 8 ffffff
+-1 4 8 ff 0 0
+0 4 8 ff 0 0
+-9 5 8 ffffff
+-8 5 8 ffffff
+-6 5 8 ffffff
+-5 5 8 ffffff
+-4 5 8 ffffff
+-3 5 8 ffffff
+-2 5 8 ffffff
+-1 5 8 ff 0 0
+-9 6 8 ffffff
+-4 6 8 ffffff
+-3 6 8 ffffff
+-2 6 8 ffffff
+-1 6 8 ff 0 0
+0 6 8 ff 0 0
+-9 7 8 ffffff
+-4 7 8 ff 0 0
+-3 7 8 ffffff
+-2 7 8 ffffff
+-1 7 8 ffffff
+0 7 8 ff 0 0
+-9 8 8 ffffff
+-5 8 8 ffffff
+-4 8 8 ff 0 0
+-3 8 8 ffffff
+-1 8 8 ffffff
+0 8 8 ff 0 0
+-9 9 8 ffffff
+-6 9 8 ffffff
+-5 9 8 ffffff
+-4 9 8 ff 0 0
+-3 9 8 ffffff
+0 9 8 ff 0 0
+-9 10 8 ffffff
+-8 10 8 ffffff
+-7 10 8 ffffff
+-6 10 8 ffffff
+-5 10 8 ffffff
+-4 10 8 ff 0 0
+-3 10 8 ff 0 0
+-2 10 8 ff 0 0
+-1 10 8 ff 0 0
+-8 11 8 ffffff
+-7 11 8 ffffff
+-6 11 8 ffffff
+-3 11 8 ffffff
+-2 11 8 ff 0 0
+-1 11 8 ff 0 0
+-7 12 8 ffffff
+-6 12 8 ffffff
+-5 12 8 ffffff
+-4 12 8 ffffff
+-2 12 8 ff 0 0
+-1 12 8 ff 0 0
+-7 13 8 ffffff
+-6 13 8 ffffff
+-5 13 8 ffffff
+-4 13 8 ffffff
+-1 13 8 ff 0 0
+0 13 8 ff 0 0
+-8 14 8 ffffff
+-5 14 8 ffffff
+-4 14 8 ff 0 0
+-3 14 8 ffffff
+-2 14 8 ffffff
+-1 14 8 ffffff
+0 14 8 ffffff
+0 1 9 ff 0 0
+-1 2 9 ff 0 0
+0 2 9 ff 0 0
+-2 3 9 ff 0 0
+-1 3 9 ff 0 0
+0 3 9 ff 0 0
+-3 4 9 ff 0 0
+-2 4 9 ff 0 0
+-1 4 9 ff 0 0
+0 4 9 ff 0 0
+-5 5 9 ff 0 0
+-4 5 9 ff 0 0
+-3 5 9 ff 0 0
+-2 5 9 ff 0 0
+0 5 9 ff 0 0
+-6 6 9 ff 0 0
+-5 6 9 ff 0 0
+-4 6 9 ff 0 0
+-3 6 9 ff 0 0
+-2 6 9 ff 0 0
+-1 6 9 ff 0 0
+0 6 9 ff 0 0
+-5 7 9 ff 0 0
+-3 7 9 ff 0 0
+-1 7 9 ff 0 0
+0 7 9 ff 0 0
+-6 8 9 ff 0 0
+-1 8 9 ff 0 0
+0 8 9 ff 0 0
+-6 9 9 ff 0 0
+-1 9 9 ff 0 0
+0 9 9 ff 0 0
+-6 10 9 ff 0 0
+-1 10 9 ff 0 0
+-6 11 9 ff 0 0
+-5 11 9 ff 0 0
+-3 11 9 ff 0 0
+-6 12 9 ff 0 0
+-4 12 9 ff 0 0
+-2 12 9 ff 0 0
+-1 12 9 ff 0 0
+0 12 9 ff 0 0
+-6 13 9 ff 0 0
+-5 13 9 ff 0 0
+-4 13 9 ff 0 0
+-3 13 9 ff 0 0
+-5 14 9 ff 0 0
+-4 14 9 ff 0 0
+-3 14 9 ff 0 0
+-2 14 9 ff 0 0
+-1 14 9 ff 0 0
+0 14 9 ff 0 0
+0 1 10 ff 0 0
+0 2 10 ff 0 0
+0 3 10 ff 0 0
+-1 4 10 ff 0 0
+-6 7 10 ff 0 0
+-6 8 10 ff 0 0
+-6 9 10 ff 0 0
+-6 10 10 ff 0 0
+-5 11 10 ff 0 0
+0 2 11 ff 0 0
+0 3 11 ff 0 0
+1 1 8 ffffff
+2 1 8 ffffff
+3 1 8 ff 0 0
+4 1 8 ff 0 0
+5 1 8 ff 0 0
+6 1 8 ff 0 0
+7 1 8 ffffff
+8 1 8 ff 0 0
+9 1 8 ff 0 0
+12 1 8 ff 0 0
+13 1 8 ff 0 0
+14 1 8 ff 0 0
+1 2 8 ff 0 0
+2 2 8 ff 0 0
+3 2 8 ff 0 0
+4 2 8 ff 0 0
+6 2 8 ffffff
+7 2 8 ffffff
+8 2 8 ff 0 0
+10 2 8 ff 0 0
+11 2 8 ff 0 0
+12 2 8 ff 0 0
+13 2 8 ff 0 0
+14 2 8 ff 0 0
+1 3 8 ff 0 0
+2 3 8 ff 0 0
+3 3 8 ff 0 0
+4 3 8 ff 0 0
+6 3 8 ffffff
+7 3 8 ff 0 0
+8 3 8 ff 0 0
+9 3 8 ff 0 0
+10 3 8 ff 0 0
+12 3 8 ff 0 0
+13 3 8 ff 0 0
+14 3 8 ff 0 0
+1 4 8 ff 0 0
+3 4 8 ffffff
+4 4 8 ff 0 0
+5 4 8 ff 0 0
+6 4 8 ffffff
+8 4 8 ff 0 0
+9 4 8 ff 0 0
+10 4 8 ff 0 0
+11 4 8 ff 0 0
+12 4 8 ff 0 0
+13 4 8 ffffff
+14 4 8 ff 0 0
+1 5 8 ff 0 0
+4 5 8 ffffff
+6 5 8 ffffff
+7 5 8 ff 0 0
+9 5 8 ff 0 0
+11 5 8 ff 0 0
+12 5 8 ff 0 0
+13 5 8 ffffff
+14 5 8 ff 0 0
+1 6 8 ff 0 0
+2 6 8 ffffff
+3 6 8 ffffff
+4 6 8 ffffff
+5 6 8 ffffff
+6 6 8 ff 0 0
+7 6 8 ffffff
+8 6 8 ff 0 0
+9 6 8 ff 0 0
+12 6 8 ffffff
+13 6 8 ff 0 0
+14 6 8 ff 0 0
+3 7 8 ff 0 0
+5 7 8 ffffff
+7 7 8 ffffff
+8 7 8 ff 0 0
+9 7 8 ffffff
+10 7 8 ffffff
+11 7 8 ffffff
+12 7 8 ffffff
+13 7 8 ffffff
+14 7 8 ffffff
+1 8 8 ff 0 0
+2 8 8 ff 0 0
+4 8 8 ffffff
+5 8 8 ffffff
+6 8 8 ff 0 0
+7 8 8 ff 0 0
+8 8 8 ff 0 0
+9 8 8 ff 0 0
+11 8 8 ffffff
+13 8 8 ff 0 0
+14 8 8 ff 0 0
+1 9 8 ff 0 0
+2 9 8 ff 0 0
+4 9 8 ffffff
+7 9 8 ff 0 0
+8 9 8 ff 0 0
+9 9 8 ff 0 0
+10 9 8 ffffff
+12 9 8 ff 0 0
+13 9 8 ff 0 0
+14 9 8 ff 0 0
+1 10 8 ffffff
+2 10 8 ff 0 0
+4 10 8 ff 0 0
+6 10 8 ff 0 0
+7 10 8 ff 0 0
+8 10 8 ffffff
+9 10 8 ff 0 0
+10 10 8 ff 0 0
+12 10 8 ff 0 0
+13 10 8 ff 0 0
+2 11 8 ff 0 0
+3 11 8 ffffff
+4 11 8 ff 0 0
+5 11 8 ff 0 0
+7 11 8 ffffff
+8 11 8 ffffff
+11 11 8 ff 0 0
+13 11 8 ff 0 0
+1 12 8 ffffff
+2 12 8 ffffff
+3 12 8 ffffff
+5 12 8 ffffff
+6 12 8 ff 0 0
+7 12 8 ff 0 0
+8 12 8 ff 0 0
+10 12 8 ff 0 0
+1 13 8 ffffff
+2 13 8 ff 0 0
+3 13 8 ffffff
+4 13 8 ffffff
+5 13 8 ffffff
+8 13 8 ff 0 0
+9 13 8 ff 0 0
+10 13 8 ff 0 0
+11 13 8 ff 0 0
+14 13 8 ff 0 0
+1 14 8 ff 0 0
+2 14 8 ff 0 0
+3 14 8 ff 0 0
+5 14 8 ffffff
+6 14 8 ff 0 0
+7 14 8 ff 0 0
+8 14 8 ff 0 0
+10 14 8 ffffff
+11 14 8 ffffff
+12 14 8 ffffff
+13 14 8 ffffff
+14 14 8 ff 0 0
+2 1 9 ff 0 0
+3 1 9 ff 0 0
+4 1 9 ff 0 0
+5 1 9 ff 0 0
+6 1 9 ff 0 0
+7 1 9 ff 0 0
+8 1 9 ff 0 0
+9 1 9 ff 0 0
+10 1 9 ff 0 0
+13 1 9 ff 0 0
+14 1 9 ff 0 0
+1 2 9 ff 0 0
+2 2 9 ff 0 0
+4 2 9 ff 0 0
+5 2 9 ff 0 0
+6 2 9 ff 0 0
+7 2 9 ff 0 0
+10 2 9 ff 0 0
+11 2 9 ff 0 0
+12 2 9 ff 0 0
+13 2 9 ff 0 0
+1 3 9 ff 0 0
+2 3 9 ff 0 0
+3 3 9 ff 0 0
+4 3 9 ff 0 0
+5 3 9 ff 0 0
+7 3 9 ff 0 0
+8 3 9 ff 0 0
+9 3 9 ff 0 0
+10 3 9 ff 0 0
+11 3 9 ff 0 0
+12 3 9 ff 0 0
+14 3 9 ff 0 0
+1 4 9 ff 0 0
+2 4 9 ff 0 0
+5 4 9 ff 0 0
+6 4 9 ff 0 0
+7 4 9 ff 0 0
+8 4 9 ff 0 0
+10 4 9 ff 0 0
+12 4 9 ff 0 0
+14 4 9 ff 0 0
+1 5 9 ff 0 0
+6 5 9 ff 0 0
+7 5 9 ff 0 0
+9 5 9 ff 0 0
+12 5 9 ff 0 0
+1 6 9 ff 0 0
+2 6 9 ff 0 0
+4 6 9 ff 0 0
+5 6 9 ff 0 0
+6 6 9 ff 0 0
+7 6 9 ff 0 0
+8 6 9 ff 0 0
+9 6 9 ff 0 0
+11 6 9 ff 0 0
+13 6 9 ff 0 0
+14 6 9 ff 0 0
+1 7 9 ff 0 0
+3 7 9 ff 0 0
+4 7 9 ff 0 0
+5 7 9 ff 0 0
+6 7 9 ff 0 0
+7 7 9 ff 0 0
+8 7 9 ff 0 0
+10 7 9 ff 0 0
+14 7 9 ff 0 0
+1 8 9 ff 0 0
+2 8 9 ff 0 0
+3 8 9 ff 0 0
+4 8 9 ff 0 0
+5 8 9 ff 0 0
+6 8 9 ff 0 0
+7 8 9 ff 0 0
+8 8 9 ff 0 0
+9 8 9 ff 0 0
+10 8 9 ff 0 0
+13 8 9 ff 0 0
+14 8 9 ff 0 0
+3 9 9 ff 0 0
+4 9 9 ff 0 0
+8 9 9 ff 0 0
+9 9 9 ff 0 0
+10 9 9 ff 0 0
+13 9 9 ff 0 0
+2 10 9 ff 0 0
+4 10 9 ff 0 0
+5 10 9 ff 0 0
+7 10 9 ff 0 0
+8 10 9 ff 0 0
+9 10 9 ff 0 0
+10 10 9 ff 0 0
+12 10 9 ff 0 0
+2 11 9 ff 0 0
+3 11 9 ff 0 0
+4 11 9 ff 0 0
+5 11 9 ff 0 0
+6 11 9 ff 0 0
+9 11 9 ff 0 0
+10 11 9 ff 0 0
+11 11 9 ff 0 0
+13 11 9 ff 0 0
+1 12 9 ff 0 0
+2 12 9 ff 0 0
+3 12 9 ff 0 0
+4 12 9 ff 0 0
+5 12 9 ff 0 0
+6 12 9 ff 0 0
+7 12 9 ff 0 0
+8 12 9 ff 0 0
+9 12 9 ff 0 0
+10 12 9 ff 0 0
+11 12 9 ff 0 0
+14 12 9 ff 0 0
+2 13 9 ff 0 0
+3 13 9 ff 0 0
+4 13 9 ff 0 0
+5 13 9 ff 0 0
+10 13 9 ff 0 0
+11 13 9 ff 0 0
+12 13 9 ff 0 0
+13 13 9 ff 0 0
+14 13 9 ff 0 0
+4 14 9 ff 0 0
+5 14 9 ff 0 0
+6 14 9 ff 0 0
+9 14 9 ff 0 0
+10 14 9 ff 0 0
+11 14 9 ff 0 0
+12 14 9 ff 0 0
+13 14 9 ff 0 0
+2 1 10 ff 0 0
+3 1 10 ff 0 0
+7 1 10 ff 0 0
+8 1 10 ff 0 0
+9 1 10 ff 0 0
+10 1 10 ff 0 0
+11 1 10 ff 0 0
+12 1 10 ff 0 0
+13 1 10 ff 0 0
+14 1 10 ff 0 0
+1 2 10 ff 0 0
+3 2 10 ff 0 0
+5 2 10 ff 0 0
+6 2 10 ff 0 0
+7 2 10 ff 0 0
+8 2 10 ff 0 0
+11 2 10 ff 0 0
+12 2 10 ff 0 0
+13 2 10 ff 0 0
+14 2 10 ff 0 0
+4 3 10 ff 0 0
+5 3 10 ff 0 0
+6 3 10 ff 0 0
+7 3 10 ff 0 0
+8 3 10 ff 0 0
+9 3 10 ff 0 0
+11 3 10 ff 0 0
+12 3 10 ff 0 0
+13 3 10 ff 0 0
+14 3 10 ff 0 0
+6 4 10 ff 0 0
+7 4 10 ff 0 0
+10 4 10 ff 0 0
+12 4 10 ff 0 0
+5 5 10 ff 0 0
+6 5 10 ff 0 0
+7 5 10 ff 0 0
+10 5 10 ff 0 0
+11 5 10 ff 0 0
+12 5 10 ff 0 0
+13 5 10 ff 0 0
+5 6 10 ff 0 0
+6 6 10 ff 0 0
+7 6 10 ff 0 0
+9 6 10 ff 0 0
+10 6 10 ff 0 0
+11 6 10 ff 0 0
+13 6 10 ff 0 0
+14 6 10 ff 0 0
+2 7 10 ff 0 0
+3 7 10 ff 0 0
+7 7 10 ff 0 0
+9 7 10 ff 0 0
+10 7 10 ff 0 0
+14 7 10 ff 0 0
+4 8 10 ff 0 0
+5 8 10 ff 0 0
+7 8 10 ff 0 0
+10 8 10 ff 0 0
+12 8 10 ff 0 0
+3 9 10 ff 0 0
+4 9 10 ff 0 0
+5 9 10 ff 0 0
+6 9 10 ff 0 0
+8 9 10 ff 0 0
+9 9 10 ff 0 0
+11 9 10 ff 0 0
+12 9 10 ff 0 0
+4 10 10 ff 0 0
+7 10 10 ff 0 0
+9 10 10 ff 0 0
+10 10 10 ff 0 0
+11 10 10 ff 0 0
+12 10 10 ff 0 0
+4 11 10 ff 0 0
+9 11 10 ff 0 0
+10 11 10 ff 0 0
+11 11 10 ff 0 0
+12 11 10 ff 0 0
+13 11 10 ff 0 0
+4 12 10 ff 0 0
+8 12 10 ff 0 0
+9 12 10 ff 0 0
+11 12 10 ff 0 0
+13 12 10 ff 0 0
+1 13 10 ff 0 0
+4 13 10 ff 0 0
+6 13 10 ff 0 0
+9 13 10 ff 0 0
+10 13 10 ff 0 0
+11 13 10 ff 0 0
+12 13 10 ff 0 0
+13 13 10 ff 0 0
+14 13 10 ff 0 0
+1 14 10 ff 0 0
+2 14 10 ff 0 0
+5 14 10 ff 0 0
+6 14 10 ff 0 0
+9 14 10 ff 0 0
+10 14 10 ff 0 0
+11 14 10 ff 0 0
+12 14 10 ff 0 0
+13 14 10 ff 0 0
+14 14 10 ff 0 0
+8 1 11 ff 0 0
+9 1 11 ff 0 0
+10 1 11 ff 0 0
+11 1 11 ff 0 0
+12 1 11 ff 0 0
+13 1 11 ff 0 0
+11 2 11 ff 0 0
+12 2 11 ff 0 0
+13 2 11 ff 0 0
+14 2 11 ff 0 0
+6 3 11 ff 0 0
+7 3 11 ff 0 0
+8 3 11 ff 0 0
+11 3 11 ff 0 0
+12 3 11 ff 0 0
+6 4 11 ff 0 0
+7 4 11 ff 0 0
+8 4 11 ff 0 0
+10 4 11 ff 0 0
+11 4 11 ff 0 0
+12 4 11 ff 0 0
+6 5 11 ff 0 0
+7 5 11 ff 0 0
+11 5 11 ff 0 0
+12 5 11 ff 0 0
+13 5 11 ff 0 0
+4 6 11 ff 0 0
+5 6 11 ff 0 0
+13 6 11 ff 0 0
+13 7 11 ff 0 0
+14 7 11 ff 0 0
+3 8 11 ff 0 0
+4 8 11 ff 0 0
+12 8 11 ff 0 0
+13 8 11 ff 0 0
+12 9 11 ff 0 0
+7 10 11 ff 0 0
+8 11 11 ff 0 0
+9 11 11 ff 0 0
+9 12 11 ff 0 0
+13 12 11 ff 0 0
+7 13 11 ff 0 0
+8 13 11 ff 0 0
+9 13 11 ff 0 0
+12 13 11 ff 0 0
+13 13 11 ff 0 0
+14 13 11 ff 0 0
+2 14 11 ff 0 0
+3 14 11 ff 0 0
+7 14 11 ff 0 0
+8 14 11 ff 0 0
+9 14 11 ff 0 0
+10 14 11 ff 0 0
+11 14 11 ff 0 0
+12 14 11 ff 0 0
+13 14 11 ff 0 0
+14 14 11 ff 0 0
+10 1 12 ff 0 0
+11 1 12 ff 0 0
+12 1 12 ff 0 0
+13 1 12 ff 0 0
+13 2 12 ff 0 0
+14 2 12 ff 0 0
+13 3 12 ff 0 0
+7 4 12 ff 0 0
+5 5 12 ff 0 0
+6 5 12 ff 0 0
+7 5 12 ff 0 0
+13 8 12 ff 0 0
+8 14 12 ff 0 0
+9 14 12 ff 0 0
+10 14 12 ff 0 0
+13 14 12 ff 0 0
+1 15 8 ff 0 0
+2 15 8 ff 0 0
+3 15 8 ff 0 0
+6 15 8 ffffff
+7 15 8 ffffff
+8 15 8 ffffff
+9 15 8 ffffff
+10 15 8 ffffff
+13 15 8 ffffff
+14 15 8 ff 0 0
+9 16 8 ff 0 0
+10 16 8 ff 0 0
+11 16 8 ff 0 0
+12 16 8 ffffff
+13 16 8 ff 0 0
+14 16 8 ff 0 0
+9 17 8 ff 0 0
+12 17 8 ff 0 0
+13 17 8 ff 0 0
+14 17 8 ffffff
+1 18 8 ff 0 0
+2 18 8 ff 0 0
+11 18 8 ffffff
+14 18 8 ffffff
+2 19 8 ff 0 0
+3 19 8 ff 0 0
+4 19 8 ff 0 0
+6 19 8 ff 0 0
+7 19 8 ff 0 0
+8 19 8 ff 0 0
+9 19 8 ff 0 0
+10 19 8 ffffff
+14 19 8 ffffff
+4 20 8 ff 0 0
+5 20 8 ff 0 0
+6 20 8 ff 0 0
+8 20 8 ffffff
+9 20 8 ff 0 0
+14 20 8 ffffff
+1 21 8 ffffff
+2 21 8 ffffff
+3 21 8 ffffff
+4 21 8 ffffff
+5 21 8 ffffff
+6 21 8 ffffff
+7 21 8 ffffff
+9 21 8 ff 0 0
+10 21 8 ff 0 0
+13 21 8 ffffff
+10 22 8 ff 0 0
+11 22 8 ff 0 0
+13 22 8 ff 0 0
+13 23 8 ffffff
+14 23 8 ff 0 0
+13 24 8 ffffff
+12 25 8 ffffff
+12 26 8 ffffff
+11 27 8 ffffff
+11 28 8 ffffff
+1 15 9 ff 0 0
+2 15 9 ff 0 0
+3 15 9 ff 0 0
+4 15 9 ff 0 0
+5 15 9 ff 0 0
+6 15 9 ff 0 0
+7 15 9 ff 0 0
+8 15 9 ff 0 0
+9 15 9 ff 0 0
+10 15 9 ff 0 0
+11 15 9 ff 0 0
+12 15 9 ff 0 0
+13 15 9 ff 0 0
+14 15 9 ff 0 0
+13 16 9 ff 0 0
+14 16 9 ff 0 0
+1 17 9 ff 0 0
+2 17 9 ff 0 0
+11 17 9 ff 0 0
+12 17 9 ff 0 0
+9 18 9 ff 0 0
+10 18 9 ff 0 0
+9 19 9 ff 0 0
+10 19 9 ff 0 0
+12 22 9 ff 0 0
+13 22 9 ff 0 0
+2 15 10 ff 0 0
+3 15 10 ff 0 0
+5 15 10 ff 0 0
+6 15 10 ff 0 0
+7 15 10 ff 0 0
+8 15 10 ff 0 0
+9 15 10 ff 0 0
+13 15 10 ff 0 0
+2 16 10 ff 0 0
+11 17 10 ff 0 0
+3 15 11 ff 0 0
+4 15 11 ff 0 0
+5 15 11 ff 0 0
+6 15 11 ff 0 0
+7 15 11 ff 0 0
+8 15 11 ff 0 0
+12 15 11 ff 0 0
+3 16 11 ff 0 0
+12 16 11 ff 0 0
+3 15 12 ff 0 0
+4 15 12 ff 0 0
+13 15 12 ff 0 0
+16 1 8 ffffff
+17 1 8 ffffff
+18 1 8 ffffff
+20 1 8 ffffff
+28 1 8 ff 0 0
+16 2 8 ffffff
+17 2 8 ffffff
+18 2 8 ffffff
+20 2 8 ffffff
+15 3 8 ff 0 0
+16 3 8 ff 0 0
+17 3 8 ffffff
+18 3 8 ffffff
+19 3 8 ffffff
+16 4 8 ffffff
+17 4 8 ffffff
+18 4 8 ffffff
+16 5 8 ffffff
+17 5 8 ffffff
+18 5 8 ffffff
+19 5 8 ff 0 0
+15 6 8 ff 0 0
+16 6 8 ffffff
+17 6 8 ffffff
+19 6 8 ff 0 0
+15 7 8 ff 0 0
+16 7 8 ff 0 0
+17 7 8 ff 0 0
+18 7 8 ff 0 0
+19 7 8 ff 0 0
+15 8 8 ff 0 0
+16 8 8 ffffff
+17 8 8 ffffff
+19 8 8 ff 0 0
+20 8 8 ff 0 0
+26 8 8 ff 0 0
+27 8 8 ff 0 0
+28 8 8 ff 0 0
+15 9 8 ff 0 0
+16 9 8 ffffff
+17 9 8 ffffff
+18 9 8 ff 0 0
+21 9 8 ff 0 0
+22 9 8 ff 0 0
+23 9 8 ff 0 0
+24 9 8 ff 0 0
+25 9 8 ff 0 0
+26 9 8 ff 0 0
+15 10 8 ff 0 0
+16 10 8 ffffff
+17 10 8 ff 0 0
+18 10 8 ff 0 0
+15 11 8 ffffff
+16 11 8 ff 0 0
+17 11 8 ff 0 0
+18 11 8 ff 0 0
+15 12 8 ff 0 0
+16 12 8 ff 0 0
+17 12 8 ff 0 0
+18 12 8 ff 0 0
+15 13 8 ff 0 0
+17 13 8 ff 0 0
+18 13 8 ff 0 0
+15 14 8 ffffff
+17 14 8 ff 0 0
+18 14 8 ff 0 0
+15 1 9 ff 0 0
+17 1 9 ff 0 0
+18 1 9 ff 0 0
+20 1 9 ff 0 0
+15 2 9 ff 0 0
+16 2 9 ff 0 0
+17 2 9 ff 0 0
+19 2 9 ff 0 0
+16 3 9 ff 0 0
+17 3 9 ff 0 0
+18 3 9 ff 0 0
+15 4 9 ff 0 0
+16 4 9 ff 0 0
+17 4 9 ff 0 0
+18 4 9 ff 0 0
+15 5 9 ff 0 0
+16 5 9 ff 0 0
+17 5 9 ff 0 0
+18 5 9 ff 0 0
+15 6 9 ff 0 0
+16 6 9 ff 0 0
+18 6 9 ff 0 0
+15 7 9 ff 0 0
+16 7 9 ff 0 0
+18 7 9 ff 0 0
+19 7 9 ff 0 0
+15 8 9 ff 0 0
+17 8 9 ff 0 0
+18 8 9 ff 0 0
+19 8 9 ff 0 0
+15 9 9 ff 0 0
+17 9 9 ff 0 0
+19 9 9 ff 0 0
+15 10 9 ff 0 0
+16 10 9 ff 0 0
+17 10 9 ff 0 0
+16 11 9 ff 0 0
+15 12 9 ff 0 0
+16 12 9 ff 0 0
+15 13 9 ff 0 0
+15 14 9 ff 0 0
+16 1 10 ff 0 0
+17 1 10 ff 0 0
+18 1 10 ff 0 0
+17 2 10 ff 0 0
+18 2 10 ff 0 0
+15 3 10 ff 0 0
+17 3 10 ff 0 0
+18 3 10 ff 0 0
+16 4 10 ff 0 0
+18 4 10 ff 0 0
+17 5 10 ff 0 0
+18 6 10 ff 0 0
+16 10 10 ff 0 0
+16 11 10 ff 0 0
+16 12 10 ff 0 0
+16 13 10 ff 0 0
+15 14 10 ff 0 0
+15 3 11 ff 0 0
+16 4 11 ff 0 0
+15 13 11 ff 0 0
+15 -10 8 ffffff
+16 -9 8 ffffff
+17 -9 8 ffffff
+15 -8 8 ff 0 0
+16 -8 8 ff 0 0
+17 -8 8 ff 0 0
+18 -8 8 ff 0 0
+19 -8 8 ff 0 0
+18 -7 8 ffffff
+19 -7 8 ff 0 0
+17 -6 8 ff 0 0
+18 -6 8 ff 0 0
+19 -6 8 ff 0 0
+20 -6 8 ff 0 0
+15 -5 8 ffffff
+16 -5 8 ffffff
+20 -5 8 ffffff
+21 -5 8 ff 0 0
+15 -4 8 ffffff
+17 -4 8 ffffff
+20 -4 8 ffffff
+21 -4 8 ff 0 0
+15 -3 8 ffffff
+16 -3 8 ffffff
+17 -3 8 ffffff
+18 -3 8 ffffff
+19 -3 8 ff 0 0
+20 -3 8 ff 0 0
+21 -3 8 ff 0 0
+22 -3 8 ff 0 0
+16 -2 8 ffffff
+18 -2 8 ffffff
+19 -2 8 ff 0 0
+20 -2 8 ffffff
+21 -2 8 ff 0 0
+23 -2 8 ff 0 0
+24 -2 8 ff 0 0
+25 -2 8 ff 0 0
+16 -1 8 ffffff
+18 -1 8 ffffff
+19 -1 8 ff 0 0
+20 -1 8 ffffff
+21 -1 8 ff 0 0
+25 -1 8 ff 0 0
+26 -1 8 ff 0 0
+16 0 8 ffffff
+18 0 8 ffffff
+19 0 8 ff 0 0
+20 0 8 ffffff
+21 0 8 ff 0 0
+27 0 8 ff 0 0
+15 -6 9 ff 0 0
+16 -6 9 ff 0 0
+17 -6 9 ff 0 0
+19 -6 9 ff 0 0
+19 -5 9 ff 0 0
+20 -5 9 ff 0 0
+15 -4 9 ff 0 0
+16 -4 9 ff 0 0
+17 -4 9 ff 0 0
+18 -4 9 ff 0 0
+19 -4 9 ff 0 0
+20 -4 9 ff 0 0
+15 -3 9 ff 0 0
+20 -3 9 ff 0 0
+15 0 9 ff 0 0
+16 0 9 ff 0 0
+17 0 9 ff 0 0
+18 0 9 ff 0 0
+20 0 9 ff 0 0
+-8 15 8 ffffff
+-4 15 8 ffffff
+-3 15 8 ff 0 0
+-2 15 8 ff 0 0
+-1 15 8 ff 0 0
+-8 16 8 ffffff
+-4 16 8 ffffff
+-9 17 8 ffffff
+-8 17 8 ffffff
+-3 17 8 ffffff
+-9 18 8 ffffff
+-3 18 8 ffffff
+-9 19 8 ffffff
+-2 19 8 ffffff
+-9 20 8 ffffff
+-1 20 8 ffffff
+-9 21 8 ffffff
+0 21 8 ffffff
+-9 22 8 ffffff
+-8 23 8 ffffff
+-8 24 8 ffffff
+-8 25 8 ffffff
+-7 26 8 ffffff
+-7 27 8 ffffff
+-7 28 8 ffffff
+0 15 9 ff 0 0
+15 15 8 ffffff
+17 15 8 ff 0 0
+18 15 8 ff 0 0
+15 16 8 ffffff
+17 16 8 ff 0 0
+18 16 8 ff 0 0
+15 17 8 ff 0 0
+16 17 8 ff 0 0
+17 17 8 ff 0 0
+18 17 8 ff 0 0
+18 18 8 ff 0 0
+18 19 8 ff 0 0
+18 20 8 ff 0 0
+17 21 8 ff 0 0
+18 21 8 ff 0 0
+17 22 8 ff 0 0
+15 23 8 ff 0 0
+16 23 8 ff 0 0
+17 23 8 ff 0 0
+15 15 9 ff 0 0
+15 16 9 ff 0 0
+-6 29 8 ffffff
+-5 30 8 ffffff
+-4 31 8 ffffff
+-3 31 8 ffffff
+-2 32 8 ffffff
+-1 33 8 ffffff
+0 33 8 ffffff
+10 29 8 ffffff
+9 30 8 ffffff
+7 31 8 ffffff
+8 31 8 ffffff
+9 31 8 ffffff
+4 32 8 ffffff
+5 32 8 ffffff
+6 32 8 ffffff
+7 32 8 ffffff
+1 33 8 ffffff
+2 33 8 ffffff
+3 33 8 ffffff
+4 33 8 ffffff
+-15 -9 8 ffffff
+-14 -9 8 ffffff
+-17 -8 8 ffffff
+-16 -8 8 ffffff
+-15 -8 8 ffffff
+-20 -7 8 ffffff
+-19 -7 8 ffffff
+-18 -7 8 ffffff
+-17 -7 8 ffffff
+-19 -6 8 ffffff
+-19 -5 8 ffffff
+-18 -5 8 ffffff
+-18 -4 8 ffffff
+-17 -3 8 ffffff
+-16 -2 8 ffffff
+-15 -1 8 ffffff
+-15 0 8 ffffff
+-14 0 8 ffffff
+-14 1 8 ffffff
+29 2 8 ff 0 0
+29 3 8 ff 0 0
+30 3 8 ff 0 0
+30 4 8 ff 0 0
+30 5 8 ff 0 0
+30 6 8 ff 0 0
+29 7 8 ff 0 0
+30 7 8 ff 0 0
+29 8 8 ff 0 0
